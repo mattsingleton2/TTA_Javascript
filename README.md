@@ -3,7 +3,7 @@ JavaScript projects through The Tech Academy. This Repository will attempt to re
 Project listings and directories will be detailed below.
 
 ## Basic JavaScript Projects
-    This directory contains the basic JavaScript projects covered in The Tech Academy's JavaScript Course. 
+This directory contains the basic JavaScript projects covered in The Tech Academy's JavaScript Course. 
 
 ### Project 1: Expressions
 This project covers the sheer basics of using javascript from an external file and linking it within another file. 
