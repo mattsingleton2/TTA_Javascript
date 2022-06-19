@@ -14,4 +14,6 @@ Project 4: Dictionaries | We practice utilizing Key-Value Pairs and displaying, 
 Project 5: Type Coercion and Comparisons | Using comparison operators and learning about type coercion - minimal js files with some examples of AND, OR, NOT, and how type coercion is used in Javascript since we're not strongly typing our variable data types.
 Project 6: Ternary Operators & Constructors | Working with the ever-useful ternary operator. Like that ? Great, so do I : We'll agree to disagree! Constructors come into play here along with the 'this' keyword.
 Project 7: Scope & Time function | Learning about code scope and time functions.
+Project 8: String Methods | Working with Javascript String Methods
+
 
