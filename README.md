@@ -10,3 +10,4 @@ Project Name  | Description
 Project 1: Expressions  | This project covers the sheer basics of using javascript from an external file and linking it within another file. 
 Project 2: Functions  | This project covers those ever-useful functions in javascript. Time to get a little more hands on about DOM manipulation.
 Project 3: Math Operators | We get some practice with using operators in Javascript. I kept tying in some practice with HTML Events as well.
+Project 4: Dictionaries | We practice utilizing Key-Value Pairs and displaying, manipulating and working with dictionaries / objects.
