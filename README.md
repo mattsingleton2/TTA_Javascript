@@ -12,3 +12,5 @@ Project 2: Functions  | This project covers those ever-useful functions in javas
 Project 3: Math Operators | We get some practice with using operators in Javascript. I kept tying in some practice with HTML Events as well.
 Project 4: Dictionaries | We practice utilizing Key-Value Pairs and displaying, manipulating and working with dictionaries / objects.
 Project 5: Type Coercion and Comparisons | Using comparison operators and learning about type coercion - minimal js files with some examples of AND, OR, NOT, and how type coercion is used in Javascript since we're not strongly typing our variable data types.
+Project 6: Ternary Operators | Working with the ever-useful ternary operator. Like that ? Great, so do I : We'll agree to disagree! 
+
