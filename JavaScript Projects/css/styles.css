@@ -1,0 +1,35 @@
+body {
+    background: #000;
+    color: #aaa;
+    font: 100%/20px helvetica, arial, sans-serif;
+  }
+
+.card {
+    border: 1px solid white;
+    box-shadow: 5px 10px rgb(41, 52, 52);
+    border-radius: 50px;
+    width: 40vw;
+    margin-left: 5px;
+    padding-left: 20px;
+    background-color: darkslategrey;
+    color:#EAEDED;
+}
+
+button {
+    background-color: #4F2F4F;
+    border: 0px;
+    border-radius: 50px;
+    color: #EAEDED;
+}
+
+#c {
+    width: 80vw;
+    height: 50vh;
+    border: 5px solid white;
+}
+
+#c2 {
+    width: 80vw;
+    height: 50vh;
+    border: 5px solid white;
+}
