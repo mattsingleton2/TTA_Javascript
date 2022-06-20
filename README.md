@@ -16,5 +16,5 @@ Project 6: Ternary Operators & Constructors | Working with the ever-useful terna
 Project 7: Scope & Time function | Learning about code scope and time functions.
 Project 8: String Methods | Working with Javascript String Methods
 Project 9: Countdown Slideshow | Putting things together...
-
+Project 10: Loops & Arrays | Working on learning loops and arrays! 
 
