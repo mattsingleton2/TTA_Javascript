@@ -2,7 +2,7 @@
 JavaScript projects through The Tech Academy. This Repository will attempt to record, collect, and display any of my JavaScript practice, tutorial work and coursework. 
 Project listings and directories will be detailed below.
 
-##JavaScript Projects
+## JavaScript Projects
 This contains some practice with HTML5's Canvas Feature and some Form Validation requirement code for Javascript to help constrain HTML input values.
 
 ## Basic JavaScript Projects
