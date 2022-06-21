@@ -5,11 +5,11 @@ Project listings and directories will be detailed below.
 ## JavaScript Projects
 This contains some practice with HTML5's Canvas Feature and some Form Validation requirement code for Javascript to help constrain HTML input values.
 
-## Basic JavaScript Projects
-This directory contains the basic JavaScript projects covered in The Tech Academy's JavaScript Course.
-
 ## Tic Tac Toe Game
 This directory contains a rapid-fire tic tac toe game that uses HTML5 canvas to draw win lines and uses x, y coordinates for the squares. The X and O is just a background styling, but we update the selected squares into an array to keep track (for example 1x, 2o, 3o) and list out several (all of them, I hope) win conditions that's checked at the end of each move. Upon winning, a win line is drawn using HTML5 Canvas, and the images are removed, a win sound plays, and the array is re-instantiated to reset the game.
+
+## Basic JavaScript Projects
+This directory contains the basic JavaScript projects covered in The Tech Academy's JavaScript Course.
 
 Project Name  | Description
 :---- | :---:
